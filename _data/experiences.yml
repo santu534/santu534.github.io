@@ -1,7 +1,7 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
+  role: Technical Lead
+  time: September 2015 - Present
+  company: Xyntek Inc, Newtown, Pennsylvania
   details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -11,17 +11,25 @@
   laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
   architecto beatae vitae dicta sunt explicabo."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
+  role: Technology Analyst
+  time: November 2012 - June 2015
+  company: Infosys Limited, Cranston, Rhode Island
   details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
+  role: Senior Android Developer
+  time: May 2011 - October 2012
+  company: IMI Mobile Private Limited, Hyderabad, India
+  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- experience:
+  role: Project Engineer
+  time: March 2008 - April 2011
+  company: Wipro Limited, Hyderbad, India
   details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
