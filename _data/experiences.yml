@@ -2,14 +2,21 @@
   role: Technical Lead
   time: September 2015 - Present
   company: Xyntek Inc, Newtown, Pennsylvania
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: "•	Planning, design, and development of mobile and web applications.  
+•	Coordinated with stakeholders to finalize system designs and confirm requirements. 
+•	Built application platform foundation to support migration from client-server product lines to enterprise architectures and services.
+•	Recommended architectural improvements, design solutions and integration solutions.
+•	Implemented the monolithic node backend web services in AWS cloud architecture. 
+•	Streamlined deployment process by developing continuous integration tools.
+•	Strengthened developmental methodologies by introducing a code quality document.
+•	Performed regression and system-level testing to verify software quality and function before it was released.
+•	Sprint planning and user stories break down and estimation.
+•	Involved in front end application design for Android and iOS platforms using ionic and angular JavaScript frameworks.
+•	Integrated the application with Twilio and stripe connect platforms.
+•	Resolved the vulnerabilities in the source codes by following the OWASP security checklist and guidelines.
+•	Conducted Peer-to-peer code reviews.
+•	Involved in mobile application deployment process and promote builds to multiple environments.
+"
 - experience:
   role: Technology Analyst
   time: November 2012 - June 2015
