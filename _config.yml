@@ -14,7 +14,7 @@ style: styles-2
 name: Santosh Hanumansetti
 tagline: Technical Lead
 pic: picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Technical lead with 10 years of experience in requirement gathering and analysis, architectural, component and interface design and development for web and mobile applications in multiple platforms.
+summary:  'Technical lead with 10 years of experience in requirement gathering and analysis, architectural, component and interface design and development for web and mobile applications in multiple platforms.
 
 #sidebar links
 email: hanu.santu@gmail.com
@@ -22,7 +22,7 @@ phone: 575 639 4919
 # website: http://github.com/santu534 #do not add http://
 linkedin: santosh-hanumansetti-a310a120
 github: santu534
-twitter: '@santu534'
+twitter:  '@santu534'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
