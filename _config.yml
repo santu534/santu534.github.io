@@ -1,6 +1,6 @@
 # Site Settings
 title: Santosh Hanumansetti
-url: 'http://github.com/santu534'
+# url: 'http://github.com/santu534'
 baseurl: '/santu534.github.io' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -21,9 +21,9 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 
 #sidebar links
 email: hanu.santu@gmail.com
-phone: 575 639 4919
+phone: 575-639-4919
 website: http://github.com/santu534 #do not add http://
-linkedin: Santosh Hanumansetti
+linkedin: santosh-hanumansetti-a310a120
 github: santu534
 twitter: '@santu534'
 #Update all the sections by editing the files inside _data folder.
