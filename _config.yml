@@ -4,20 +4,17 @@ title: Santosh Hanumansetti
 baseurl: '/santu534.github.io' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
-style: styles-6
+#style: styles-6
 
 #Profile information
 name: Santosh Hanumansetti
-tagline: Technical Lead / Senior Full Stack Developer
+tagline: Technical Lead
 pic: picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Technical lead with 10 years of experience in requirement gathering and analysis, architectural, component and interface design and development for web and mobile applications in multiple platforms.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
 email: hanu.santu@gmail.com
